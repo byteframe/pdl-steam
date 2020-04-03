@@ -1,0 +1,1 @@
+This used to be a 144mb sql file for the hlstatsx database, I think for a dods server.

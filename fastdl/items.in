@@ -1,0 +1,1205 @@
+x 0 Bat
+x 1 Bottle
+x 2 Fire Axe
+x 3 Kukri
+x 4 Knife
+x 5 Fists
+x 6 Shovel
+x 7 Wrench
+x 8 Bonesaw
+x 9 Engineer's Shotgun
+x 10 Soldier's Shotgun
+x 11 Heavy's Shotgun
+x 12 Pyro's Shotgun
+x 13 Scattergun
+x 14 Sniper Rifle
+x 15 Minigun
+x 16 SMG
+x 17 Syringe Gun
+x 18 Rocket Launcher
+x 19 Grenade Launcher
+x 20 Stickybomb Launcher
+x 21 Flamethrower
+x 22 Engineer's Pistol
+x 23 Scout's Pistol
+x 24 Revolver
+x 25 Construction PDA
+x 26 Destruction PDA
+x 27 Disguise Kit PDA
+x 28 PDA (ed: Toolbox)
+x 29 Medigun
+x 30 Invisibility Watch
+v 35 Kritzkrieg
+v 36 Blutsauger
+v 37 Ubersaw
+v 38 Axtinguisher
+v 39 Flaregun
+v 40 Backburner
+v 41 Natascha
+v 42 Sandvich
+v 43 Killing Gloves of Boxing
+v 44 Sandman
+v 45 Force-A-Nature
+v 46 Bonk! Atomic Punch
+v 47 Demoman's 'Fro
+v 48 Mining Light
+v 49 Football Helmet
+v 50 Prussian Pickelhaube
+v 51 Pyro's Beanie
+v 52 Batter's Helmet
+v 53 Trophy Belt
+v 54 Soldier's Stash
+v 55 Fancy Fedora
+v 56 Huntsman
+v 57 Razorback
+v 58 Jarate
+v 59 Dead Ringer
+v 60 Cloak And Dagger
+v 61 Ambassador
+v 94 Texas Ten Gallon
+v 95 Engineer's Cap
+v 96 Officer's Ushanka
+v 97 Tough Guy's Toque
+v 98 Stainless Pot
+v 99 Tyrant's Helm
+v 100 Glengarry Bonnet
+v 101 Vintage Tyrolean
+v 102 Respectless Rubber Glove
+v 103 Camera Beard
+v 104 Otolaryngologist's Mirror
+v 105 Brigade Helm
+v 106 Bonk Helm
+v 107 Ye Olde Baker Boy
+v 108 Backbiter's Billycock
+v 109 Professional's Panama
+v 110 Master's Yellow Belt
+v 111 Baseball Bill's Sports Shine
+a 115 Mildly Disturbing Halloween Mask
+a 116 Ghastly Gibus
+v 117 Ritzy Rick's Hair Fixative
+v 118 Texas Slim's Dome Shine
+v 120 Scottsman's Stove Pipe
+u 121 Service Medal
+a 125 Cheater's Lament
+u 126 Bill's Hat
+v 127 Direct Hit
+v 128 Equalizer
+v 129 Buff Banner
+v 130 Scottish Resistance
+v 131 Chargin' Targe
+v 132 Eyelander
+v 133 Gunboats
+u 134 J.Axer's Dapper Topper (custom Towering Pillar of Hats)
+v 135 Towering Pillar of Hats
+u 136 Amber's Rad As All Hell Hat (custom Noble Amassment of Hats)
+v 137 Noble Amassment of Hats
+u 138 Uncle Sam (custom Modest Pile of Hat)
+v 139 Modest Pile of Hat
+v 140 Wrangler
+v 141 Frontier Justice
+v 142 Gunslinger
+u 143 Earbuds
+v 144 Physician's Procedure Mask
+v 145 Hound Dog
+v 146 Hustler's Hallmark
+v 147 Magistrate's Mullet
+v 148 Hotrod
+v 150 Troublemaker's Tossle Cap
+v 151 Triboniophorus Tyrannus
+v 152 Killer's Kabuto
+v 153 Homewrecker
+v 154 Pain Train
+v 155 Southern Hospitality
+v 158 Shooter's Sola Topi
+v 159 Dalokohs Bar
+v 160 Lugermorph
+u 161 Big Kill
+u 162 Max's Severed Head
+v 163 Crit-a-Cola
+a 164 Grizzled Veteran
+a 165 Soldier of Fortune
+a 166 Mercenary
+u 167 High Five Taunt
+a 169 Golden Wrench
+a 170 Primeval Warrior
+v 171 Tribalman's Shiv
+v 172 Scotsman's Skullcutter
+u 173 Vita-Saw
+v 174 Whoopee Cap
+v 175 Whiskered Gentleman
+v 177 Ze Goggles
+v 178 Safe'n'Sound
+v 179 Tippler's Tricorne
+v 180 Frenchman's Beret
+v 181 Bloke's Bucket Hat
+v 182 Vintage Merryweather
+v 183 Sergeant's Drill Hat
+v 184 Gentleman's Gatsby
+v 185 Heavy Duty Rag
+a 189 Alien Swarm Parasite
+s 190 Bat (Renamed/Strange)
+s 191 Bottle (Renamed/Strange)
+s 192 Fire Axe (Renamed/Strange)
+s 193 Kukri (Renamed/Strange)
+s 194 Knife (Renamed/Strange)
+s 195 Fists (Renamed/Strange)
+s 196 Shovel (Renamed/Strange)
+s 197 Wrench (Renamed/Strange)
+s 198 Bonesaw (Renamed/Strange)
+s 199 Shotgun (Renamed/Strange)
+s 200 Scattergun (Renamed/Strange)
+s 201 Sniper Rifle (Renamed/Strange)
+s 202 Minigun (Renamed/Strange)
+s 203 SMG (Renamed/Strange)
+s 204 Syringe Gun (Renamed/Strange)
+s 205 Rocket Launcher (Renamed/Strange)
+s 206 Grenade Launcher (Renamed/Strange)
+s 207 Stickybomb Launcher (Renamed/Strange)
+s 208 Flamethrower (Renamed/Strange)
+s 209 Pistol (Renamed/Strange)
+s 210 Revolver (Renamed/Strange)
+s 211 Medigun (Renamed/Strange)
+s 212 Invisibility Watch (Renamed/Strange)
+u 213 Attendant
+s 214 Powerjack
+s 215 Degreaser
+u 216 Rimmed Raincatcher
+u 219 Milkman
+s 220 Shortstop
+s 221 Holy Mackerel
+s 222 Mad Milk
+u 223 Familiar Fez
+s 224 L'Etranger
+s 225 Your Eternal Reward
+u 226 Battalion's Backup
+u 227 Grenadier's Softcap
+s 228 Black Box
+u 229 Ol' Snaggletooth
+s 230 Sydney Sleeper
+u 231 Darwin's Danger Shield
+s 232 Bushwacka
+u 237 Rocket Jumper
+s 239 Gloves of Running Urgently (G.R.U.)
+u 240 Lumbricus Lid
+u 241 Duel MiniGame
+a 242 Duel Medal Bronze
+a 243 Duel Medal Silver
+a 244 Duel Medal Gold
+a 245 Duel Medal Plat
+u 246 Pugilist's Protector
+u 247 Old Guadalajara
+u 248 Napper's Respite
+u 249 Bombing Run
+u 250 Chieftain's Challenge
+u 251 Stout Shako
+u 252 Dr's Dapper Topper
+u 253 Handyman's Handle
+u 254 Hard Counter
+u 255 Sober Stuntman
+u 259 Carouser's Capotain
+u 260 Wiki Cap
+u 261 Mann Co. Cap
+u 262 Polycount Pin
+u 263 Ellis' Hat
+s 264 Frying Pan
+u 265 Sticky Jumper
+h 266 Horseless Headless Horsemann's Headtaker
+h 267 Haunted Metal Scrap
+u 268 Halloween Mask Scout
+u 269 Halloween Mask Sniper
+u 270 Halloween Mask Soldier
+u 271 Halloween Mask Demoman
+u 272 Halloween Mask Medic
+u 273 Halloween Mask Heavy
+u 274 Halloween Mask Spy
+u 275 Halloween Mask Engineer
+u 276 Halloween Mask Pyro
+u 277 Halloween Mask Saxton Hale
+a 278 Horseless Headless Horsemann's Head
+a 279 Ghastlier Gibus
+u 280 Halloween Noise Maker Black Cat
+u 281 Halloween Noise Maker Gremlin
+u 282 Halloween Noise Maker Werewolf
+u 283 Halloween Noise Maker Witch
+u 284 Halloween Noise Maker Banshee
+u 286 Halloween Noise Maker Crazy Laugh
+u 287 Spine-Chilling Skull
+u 288 Halloween Noise Maker Stabby
+u 289 Voodoo Juju
+u 290 Cadaver's Cranium
+u 291 Horrific Headsplitter
+u 292 Poker Visor
+a 294 Lugermorph
+a 295 Dangeresque, Too?!
+a 296 License to Maim
+a 297 Enthusiast's Timepiece
+a 298 Iron Curtain
+g 299 Companion Cube Pin
+a 302 Frontline Field Recorder
+u 303 Berliner's Bucket Helm
+v 304 Amputator
+v 305 Crusader's Crossbow
+u 306 Scotch Bonnet
+v 307 Ullapool Caber
+v 308 Loch-n-Load
+u 309 Big Chief
+v 310 Warrior's Spirit
+v 311 Buffalo Steak Sandvich
+v 312 Brass Beast
+u 313 Magnificent Mongolian
+u 314 Larrikin Robin
+u 315 Blighted Beak
+u 316 Pyromancer's Mask
+u 317 Candy Cane
+u 318 Prancer's Pride
+u 319 Detective Noir
+u 321 Madame Dixie
+u 322 Buckaroo's Hat
+u 323 German Gonzila
+u 324 Flipped Trilby
+u 325 Boston Basher
+s 326 Back Scratcher
+u 327 Claidheamh Mòr
+s 329 Jag
+u 330 Coupe D'isaster
+s 331 Fists of Steel
+a 332 Bounty Hat
+a 333 Treasure Hat
+a 334 Hat of Undeniable Wealth and Respect
+v 335 Foster's Facade
+v 336 Stockbroker's Scarf
+u 337 Le Party Phantom
+u 338 Industrial Festivizer
+u 339 Exquisite Rack
+u 340 Defiant Spartan
+u 341 A Rather Festive Tree
+u 342 Prince Tavish's Crown
+a 343 Professor Speks
+u 344 Crocleather Slouch
+u 345 Athletic Supporter
+u 346 Superfan
+u 347 Essential Accessories
+v 348 Sharpened Volcano Fragment
+v 349 Sun-on-a-Stick
+s 351 Detonator
+v 354 Concheror
+v 355 Fan O'War
+v 356 Conniver's Kunai
+v 357 Half-Zatoichi
+g 358 Dread Knot
+g 359 Samur-Eye
+g 360 Hero's Hachimaki
+g 361 Noh Mercy
+u 362 Charity Noise Maker Bell
+g 363 Geisha Boy
+u 364 Charity Noise Maker Gong
+u 365 Charity Noise Maker Koto
+u 377 Hottie's Hoodie
+u 378 Team Captain
+u 379 Western Wear
+u 380 Large Luchadore
+u 381 Medic's Mountain Cap
+u 382 Big Country
+u 383 Grimm Hatte
+u 384 Professor's Peculiarity
+u 386 Teddy Roosebelt
+u 387 Sight for Sore Eyes
+u 388 Private Eye
+u 389 Googly Gazer
+u 390 Reggaelator
+u 391 Honcho's Headgear
+u 392 Pocket Medic
+u 393 Villain's Veil
+u 394 Connoisseur's Cap
+u 395 Furious Fukaamigasa
+u 397 Charmer's Chapeau
+u 398 Doctor's Sack
+u 399 Ol' Geezer
+u 400 Desert Maurader
+u 401 Shahanshah
+s 402 Bazaar Bargain
+u 403 Sultan's Ceremonial
+s 404 Persian Persuader
+u 405 Ali Baba's Wee Booties
+s 406 Splendid Screen
+u 408 Humanitarian's Hachimaki
+u 409 Benefactor's Kanmuri
+u 410 Magnanimous Monarch
+s 411 Quick-Fix
+s 412 Overdose
+u 413 Solemn Vow
+s 414 Libery Launcher
+s 415 Reserve Shooter
+s 416 Market Gardener
+u 417 Jumper's Jeepcap
+g 420 Aperture Labs Hard Hat
+u 422 Resurrection Associate Pin
+a 423 Saxxy
+s 424 Tomislav
+s 425 Family Business
+u 426 Eviction Notice
+u 427 Capo's Capper
+a 429 Moustachium Bar
+a 430 SpaceChem Fishcake Fragment
+a 431 SpaceChem Pin Fragment
+c 432 SpaceChem Pin
+c 433 Fishcake
+g 434 Brain Bucket
+g 435 Dead Cone
+g 436 Hetman's Headpiece
+g 437 Janissary Ketche
+a 438 Director's Vision Taunt
+u 439 Lord Cockswain's Pith Helmet
+u 440 Lord Cockswain's Novelty Mutton Chops and Pipe
+u 441 Cow Mangler 5000
+g 442 Righteous Bison
+u 443 Dr. Grordbort's Crest
+s 444 Mantreads
+u 445 Armored Authority
+u 446 Fancy Dress Uniform
+u 447 Disciplinary Action
+s 448 Soda Popper
+u 449 Winger
+s 450 Atomizer
+u 451 Bonk Boy
+g 452 Three-Rune Blade
+g 453 Hero's Tail
+g 454 Sign of Wolf's School
+u 457 Postal Pummeler
+u 459 Cosa Nostra Cap
+u 460 Enforcer
+s 461 Big Earner
+u 462 Made Man
+u 463 Schadenfreude Taunt
+g 465 Conjurer's Cowl
+g 466 Maul
+g 467 Planeswalker Helm
+g 468 Planeswalker Goggles
+v 470 Lo-Fi Longwave
+a 471 Proof of Purchase
+a 473 Spiral Sallet
+u 474 Conscientious Objector
+u 477 Meet Medic Taunt
+u 478 Copper's Hard Top
+u 479 Security Shades
+u 480 Tam O'Shanter
+u 481 Stately Steel Toe
+u 482 Nessie's Nine Iron
+u 483 Rogue's Col Roule
+u 484 Prarie Heel Biters
+u 485 Big Steel Jaw of Summer Fun
+u 486 Summer Shades
+c 489 Powerup Canteen (MvM)
+u 490 Flip-Flops
+u 491 Lucky No. 42
+u 492 Summer Hat
+u 493 Promotional Noise Maker Fireworks
+x 496 Tournament Medal GWJ Winners
+x 497 Tournament Medal GWJ Runnerups
+x 498 Tournament Medal GWJ Participants
+x 499 Tournament Medal ETF2L Highlander Winners
+x 500 Tournament Medal ETF2L Highlander 2nd
+x 501 Tournament Medal ETF2L Highlander 3rd
+x 502 Tournament Medal ETF2L Highlander Participants
+x 503 Tournament Medal UGC Highlander Participants
+x 504 Tournament Medal UGC Highlander Division 1 Winners
+x 505 Tournament Medal UGC Highlander Division 1 2nd
+x 506 Tournament Medal UGC Highlander Division 1 3rd
+x 507 Tournament Medal UGC Highlander Division 2 Winners
+x 508 Tournament Medal UGC Highlander Division 2 2nd
+x 509 Tournament Medal UGC Highlander Division 2 3rd
+x 510 Tournament Medal UGC Highlander Division 3 Winners
+x 511 Tournament Medal UGC Highlander Division 3 2nd
+x 512 Tournament Medal UGC Highlander Division 3 3rd
+g 513 Original
+g 514 Mask of Shaman
+g 515 Pilotka
+g 516 Stahlhelm
+g 517 Dragonborn Helmet
+g 518 Anger
+g 519 Pip-Boy
+g 520 Wingstick
+g 521 Nanobalaclava
+g 522 Deus Specs
+g 523 Company Man
+g 524 Purity Fist
+g 525 Diamondback
+g 526 Machina
+g 527 Widowmaker
+g 528 Short-Circuit
+x 533 Clockwerk's Helm
+x 534 Sniper's Snipin' Glass
+x 535 Storm Spirit's Jolly Hat
+a 536 Noise Maker Birthday
+a 537 Birthday Hat
+g 538 Killer Exclusive
+g 539 El Jefe
+g 540 Ball-Kicking Boots
+g 541 Merc's Pride Scarf
+g 542 Noise Maker Vuvuzela
+h 543 Hair of Dog
+h 544 Scottish Snarl
+h 545 Pickled Paws
+h 546 Wrap Battler
+h 547 B-ankh!
+h 548 Futankhamun
+h 549 Blazing Bull
+h 550 Fallen Angel
+h 551 Tail From Crypt
+h 552 Einstein
+h 553 Dr. Googlestache
+h 554 Emerald Jarate
+h 555 Idiot Box
+h 556 Steel Pipes
+h 557 Shoestring Budget
+h 558 Under Cover
+h 559 Griffin's Gog
+h 560 Intangible Ascot
+h 561 Can Opener
+h 562 Soviet Stitch-Up
+h 563 Steel-Toed Stompers
+h 564 Holy Hunter
+h 565 Silver Bullets
+h 566 Garlic Flank Stake
+h 567 Buzz Killer
+h 568 Frontier Flyboy
+h 569 Legend of Bugfoot
+u 570 Last Breath
+u 571 Apparition's Aspect
+u 572 Unarmed Combat
+u 574 Wanga Prick
+u 575 Infernal Impaler
+u 576 Spine-Chilling Skull 2011
+u 578 Spine-Chilling Skull 2011: Spine-Tingling Skull
+u 579 Spine-Chilling Skull 2011: Spine-Cooling Skull
+u 580 Spine-Chilling Skull 2011: Spine-Twisting Skull
+a 581 MONOCULUS!
+a 582 Seal Mask
+a 583 Bombnomicon
+a 584 Ghastlierest Gibus
+u 585 Cold War Luchador
+g 586 Mark of Saint
+g 587 Apoco-Fists
+u 588 Pomson 6000
+u 589 Eureka Effect
+u 590 Brainiac Hairpiece
+u 591 Brainiac Goggles
+u 592 Dr. Grordbort's Copper Crest
+u 593 Third Degree
+u 594 Phlogistinator
+u 595 Manmelter
+u 596 Moonman Backpack
+u 597 Bubble Pipe
+u 598 Manniversary Paper Hat
+u 600 Your Worst Nightmare
+u 601 One-Man Army
+u 602 Counterfeit Billycock
+u 603 Outdoorsman
+u 605 Pencil Pusher
+u 605 Tavish DeGroot Experience
+u 606 Builder's Blueprints
+u 607 Buccaneer's Bicorne
+u 608 Bootlegger
+u 609 Scottish Handshake
+u 610 A Whiff of Old Brimstone
+u 611 Salty Dog
+u 612 Little Buddy
+u 613 Gym Rat
+u 614 Hot Dogger
+u 615 Birdcage
+u 616 Surgeon's Stahlhelm
+u 617 Backwards Ballcap
+u 618 Crocodile Smile
+u 619 Flair!
+u 620 Couvre Corner
+u 621 Surgeon's Stethoscope
+u 622 L'Inspecteur
+u 623 Photo Badge
+u 624 Clan Pride
+u 626 Swagman's Swatter
+u 627 Flamboyant Flamenco
+u 628 Virtual Reality Headset
+u 629 Spectre's Spectacles
+u 630 Stereoscopic Shades
+u 631 Hat With No Name
+u 632 Cremator's Conscience
+u 633 Hermes
+g 634 Point and Shoot
+g 635 War Head
+u 636 Dr. Grordbort's Silver Crest
+g 637 Dashin' Hashshashin
+g 638 Sharp Dresser
+u 639 Dr. Whoa
+x 640 Top Notch
+u 641 Ornament Armament
+u 642 Cozy Camper
+u 643 Sandvich Safe
+u 644 Head Warmer
+u 645 Outback Intellectual
+u 646 Itsy Bitsy Spyer
+u 647 All-Father
+s 648 Wrap Assassin
+s 649 Spy-cicle
+u 650 Kringle Collection
+u 651 Jingle Belt
+u 652 Big Elfin Deal
+u 653 Bootie Time
+s 654 Festive Minigun
+s 655 Spirit of Giving
+s 656 Holiday Punch
+u 657 Nine-Pipe Problem
+s 658 Festive Rocket Launcher
+s 659 Festive Flamethrower
+s 660 Festive Bat
+s 661 Festive Stickybomb Launcher
+s 662 Festive Wrench
+s 663 Festive Medigun
+s 664 Festive Sniper Rifle
+s 665 Festive Knife
+u 666 B.M.O.C.
+u 667 Holiday Headcase
+a 668 Full Head of Steam
+s 669 Festive Scattergun
+u 670 Stocking Stuffer
+u 671 Brown Bomber
+a 673 Noise Maker Winter 2011
+u 675 Ebenezer
+x 680 UGC Tounament Fall 2011 Platinum 1st Place
+x 681 UGC Tounament Fall 2011 Platinum 2nd Place
+x 682 UGC Tounament Fall 2011 Platinum 3rd Place
+x 683 UGC Tounament Fall 2011 Platinum Participant
+x 684 UGC Tournament Autumn 2011 Euro Platinum
+x 685 UGC Tounament Fall 2011 Silver 1st Place
+x 686 UGC Tounament Fall 2011 Silver 2nd Place
+x 687 UGC Tounament Fall 2011 Silver 3rd Place
+x 688 UGC Tounament Fall 2011 Silver Participant
+x 689 UGC Tournament Autumn 2011 Euro Silver
+x 690 UGC Tounament Fall 2011 Iron 1st Place
+x 691 UGC Tounament Fall 2011 Iron 2nd Place
+x 692 UGC Tounament Fall 2011 Iron 3rd Place
+x 693 UGC Tournament Autumn 2011 Euro Iron
+x 694 UGC Tounament Fall 2011 Tin 1st Place
+x 695 UGC Tounament Fall 2011 Tin 2nd Place
+x 696 UGC Tounament Fall 2011 Tin 3rd Place
+x 697 UGC Tounament Fall 2011 Participant
+x 698 UGC Tournament Autumn 2011 Euro Tin
+u 699 Something Special For Someone Special
+u 701 Lucky Shot
+g 702 Warsworn Helmet
+g 703 Bolgan
+g 704 Bolgan Family Crest
+u 707 Boston Boom-Bringer
+u 708 Aladdin's Private Reserve
+u 709 Snapped Pupil
+a 711 Dueler
+a 712 Gifting Man From Gifting Land
+a 713 Philateler
+x 717 Mapmaker's Medallion
+g 718 Merc Medal
+g 719 Battle Bob
+g 720 Bushman's Boonie
+u 721 Conquistador
+u 722 Fast Learner
+a 725 Tour of Duty Badge
+u 725 Tour of Duty Ticket
+a 727 Black Rose
+s 730 Begger's Bazooka
+u 731 Captain's Cocktails
+u 732 Helmet Without a Name
+u 733 Robro
+u 734 Teufort Tooth Kicker
+x 735 Sapper
+s 736 Sapper (Renamed/Strange)
+s 737 Construction PDA (Renamed/Strange)
+g 738 Balloonicorn
+s 739 Lollichop
+u 740 Scorch Shot
+s 741 Rainblower
+v 743 Pyrovision Goggles
+x 744 Pyrovision Goggles
+u 745 Infernal Orchestrina
+u 746 Burning Bongoes
+u 751 Cleaner's Carbine
+a 751 Triclops
+u 752 Hitman's Heatmaker
+u 753 Waxy Wayfinder
+g 754 Scrap Pack
+u 755 Texas Half-Pants
+a 756 Bolt Action Blitzer
+a 756 Gentle Munitions of Leisure
+u 757 Toss-Proof Towel
+u 758 Squad Surplus Voucher
+u 759 Fruit Shoot
+u 760 Front Runner
+a 762 Flamingo Kid
+u 763 Sneaky Spats of Sneaking
+g 764 Cross-Comm Crash Helmet
+g 765 Cross-Comm Express
+g 766 Doublecross-Comm
+g 767 Atomic Accolade
+g 768 Professor's Pineapple
+g 769 Quadwranlger
+u 770 Surgeon's Side Satchel
+u 771 Liquor Locker
+s 772 Baby Face's Blaster
+u 773 Pretty Boy's Pocket Pistol
+v 775 Escape Plan
+u 776 Bird-Man of Aberdeen
+u 777 Apparatchik's Apparel
+u 778 Gentlemen's Ushanka
+u 779 Liquidator's Lid
+u 780 Fed-Fightin' Fedora
+u 781 Dillinger's Duffel
+u 782 Business Casual
+u 783 HazMat Headcase
+u 784 Idea Tube
+g 785 Robot Chicken Hat
+u 786 Grenadier Helm
+u 787 Tribal Bones
+u 788 Void Monk Hair
+u 789 Ninja Cowl
+x 790 What's in Sandvich Box?
+x 791 What's in Companion Square Box?
+s 792 Silver Botkiller Sniper Rifle Mk.I
+s 793 Silver Botkiller Minigun Mk.I
+s 794 Silver Botkiller Knife Mk.I
+s 795 Silver Botkiller Wrench Mk.I
+s 796 Silver Botkiller Medigun Mk.I
+s 797 Silver Botkiller Stickybomb Launcher Mk.I
+s 798 Silver Botkiller Flamethrower Mk.I
+s 799 Silver Botkiller Scattergun Mk.I
+s 800 Silver Botkiller Rocket Launcher Mk.I
+s 801 Gold Botkiller Sniper Rifle Mk.I
+s 802 Gold Botkiller Minigun Mk.I
+s 803 Gold Botkiller Knife Mk.I
+s 804 Gold Botkiller Wrench Mk.I
+s 805 Gold Botkiller Medigun Mk.I
+s 806 Gold Botkiller Stickybomb Launcher Mk.I
+s 807 Gold Botkiller Flamethrower Mk.I
+s 808 Gold Botkiller Scattergun Mk.I
+s 809 Gold Botkiller Rocket Launcher Mk.I
+g 810 Red-Tape Recorder
+g 811 Huo Long Heatmaker
+g 812 Flying Guillotine
+g 813 Neon Annihilator
+g 814 Triad Trinket
+g 815 Champ Stamp
+g 816 Marxman
+g 817 Human Cannonball
+g 818 Awesomenauts Badge
+g 819 Lone Star
+g 820 Russian Rocketeer
+g 828 Archimedes
+831 The Red-Tape Recorder (Genuine)
+832 The Huo Long Heatmaker (Genuine)
+833 The Flying Guillotine (Genuine)
+834 Neon Annihilator (Genuine)
+835 The Triad Trinket (Genuine)
+836 The Champ Stamp (Genuine)
+837 The Marxman (Genuine)
+838 The Human Cannonball (Genuine)
+u 840 U-clank-a
+u 841 Stealth Steeler
+u 842 Pyrobotics Pack
+u 843 Medic Mech-bag
+u 844 Tin Pot
+u 845 Battery Bandolier
+u 846 Robot Running Man
+u 847 Bolted Bushman
+u 848 Tin-1000
+x 850 Deflector
+g 851 AWPer Hand
+u 852 Soldier's Stogie
+g 853 Crafty Hair
+g 854 Area 451
+g 855 Vigilant Pin
+u 856 Pyrotechnic Tote
+g 863 Robo-Sandvich
+g 864 Friends Forever Companion Square Badge
+g 865 Triple A Badge
+g 866 Heavy Artillery Officer's Cap
+s 867 Gold Botkiller Minigun Mk.II
+g 867 Combat Medic's Crusher Cap
+g 868 Heroic Companion Badge
+h 869 Rump-o'-Lantern
+a 870 Tour of Duty Badge Intermediate 1
+a 871 Tour of Duty Badge Expert 1
+g 872 Lacking Moral Fiber Mask
+g 873 Whale Bone Charm
+g 874 King of Scotland Cape
+g 875 Menpo
+g 876 K-9 Mane
+g 877 Stovepipe Sniper Shako
+g 878 Foppish Physician
+g 879 Distinguished Rogue
+g 880 Freedom Staff
+s 881 Rust Botkiller Sniper Rifle Mk.I
+s 882 Rust Botkiller Minigun Mk.I
+s 883 Rust Botkiller Knife Mk.I
+s 884 Rust Botkiller Wrench Mk.I
+s 885 Rust Botkiller Medigun Mk.I
+s 886 Rust Botkiller Stickybomb Launcher Mk.I
+s 887 Rust Botkiller Flamethrower Mk.I
+s 888 Rust Botkiller Scattergun Mk.I
+s 889 Rust Botkiller Rocket Launcher Mk.I
+s 890 Blood Botkiller Sniper Rifle Mk.I
+s 891 Blood Botkiller Minigun Mk.I
+s 892 Blood Botkiller Knife Mk.I
+s 893 Blood Botkiller Wrench Mk.I
+s 894 Blood Botkiller Medigun Mk.I
+s 895 Blood Botkiller Stickybomb Launcher Mk.I
+s 896 Blood Botkiller Flamethrower Mk.I
+s 897 Blood Botkiller Scattergun Mk.I
+s 898 Blood Botkiller Rocket Launcher Mk.I
+s 899 Carbonado Botkiller Sniper Rifle Mk.I
+s 900 Carbonado Botkiller Minigun Mk.I
+s 901 Carbonado Botkiller Knife Mk.I
+s 902 Carbonado Botkiller Wrench Mk.I
+s 903 Carbonado Botkiller Medigun Mk.I
+s 904 Carbonado Botkiller Stickybomb Launcher Mk.I
+s 905 Carbonado Botkiller Flamethrower Mk.I
+s 906 Carbonado Botkiller Scattergun Mk.I
+s 907 Carbonado Botkiller Rocket Launcher Mk.I
+s 908 Diamond Botkiller Sniper Rifle Mk.I
+s 909 Diamond Botkiller Minigun Mk.I
+s 910 Diamond Botkiller Knife Mk.I
+s 911 Diamond Botkiller Wrench Mk.I
+s 912 Diamond Botkiller Medigun Mk.I
+s 913 Diamond Botkiller Stickybomb Launcher Mk.I
+s 914 Diamond Botkiller Flamethrower Mk.I
+s 915 Diamond Botkiller Scattergun Mk.I
+s 916 Diamond Botkiller Rocket Launcher Mk.I
+h 917 Sir Hootsalot
+h 918 Master Mind
+h 919 Scarecrow
+h 920 Crone's Dome
+h 921 Executioner
+h 922 Bonedolier
+h 923 Plutonidome
+h 924 Spooky Shoes
+h 925 Spooky Sleeves
+h 926 Zipperface
+h 927 Boo Balloon
+x 928 Portal 2 Soundtrack Promo Package
+h 929 Unknown Monkeynaut
+h 930 Grand Duchess Tutu
+h 931 Grand Duchess Fairy Wings
+h 932 Grand Duchess Tiara
+h 934 Dead Little Buddy
+h 935 Voodoo Juju (Slight Return)
+h 936 Exorcizor
+h 937 Wraith Wrap
+h 938 Coffin Kit
+h 939 Bat Outta Hell
+a 940 Ghostly Gibus
+a 941 Skull Island Topper
+g 942 Cockfighter
+g 943 Hitt Man Badge
+g 944 That '70s Chapeau
+g 945 Chief Constable
+g 946 Siberian Sophisticate
+g 947 Quackenbirdt
+g 948 Deadliest Duckling
+u 949 DethKapp
+u 950 Nose Candy
+u 951 Rail Spikes
+u 952 Brock's Locks
+a 953 Saxxy Clapper Badge
+a 954 Memory Maker
+g 955 Faerie Solitaire Pin
+u 955 Tuxxy
+s 957 Silver Botkiller Sniper Rifle Mk.II
+s 958 Silver Botkiller Minigun Mk.II
+s 959 Silver Botkiller Knife Mk.II
+s 960 Silver Botkiller Wrench Mk.II
+s 961 Silver Botkiller Medigun Mk.II
+s 962 Silver Botkiller Stickybomb Launcher Mk.II
+s 963 Silver Botkiller Flamethrower Mk.II
+s 964 Silver Botkiller Scattergun Mk.II
+s 965 Silver Botkiller Rocket Launcher Mk.II
+s 966 Gold Botkiller Sniper Rifle Mk.II
+s 968 Gold Botkiller Knife Mk.II
+s 969 Gold Botkiller Wrench Mk.II
+s 970 Gold Botkiller Medigun Mk.II
+s 971 Gold Botkiller Stickybomb Launcher Mk.II
+s 972 Gold Botkiller Flamethrower Mk.II
+s 973 Gold Botkiller Scattergun Mk.II
+s 974 Gold Botkiller Rocket Launcher Mk.II
+a 975 Tour of Duty Badge Advanced 2
+u 976 Cool Breeze
+u 976 Winter Wonderland Wrap
+u 977 Cut-Throat Concierge
+u 978 Der Wintermantel
+u 980 Soldier's Slope Scopers
+u 981 Cold Killer
+u 982 Doc's Holiday
+u 983 Digit Divulger
+u 984 Tough Stuff Muffs
+u 985 Heavy's Hockey Hair
+u 986 Mutton Mann
+u 987 Merc's Muffler
+u 988 Barnstormer
+u 989 Carl
+u 990 Aqua Flops
+u 991 Hunger Force
+u 992 Smissmas Wreath
+u 993 Antlers
+a 994 Mann Co. Online Cap
+u 995 Reindoonicorn
+u 996 Loose Cannon
+u 997 Rescue Ranger
+u 998 Vaccinator
+s 999 Festive Holy Mackerel
+s 1000 Festive Axtinguisher
+s 1001 Festive Buff Banner
+s 1002 Festive Sandvich
+s 1003 Festive Ubersaw
+s 1004 Festive Frontier Justice
+s 1005 Festive Huntsman
+s 1006 Festive Ambassador
+s 1007 Festive Grenade Launcher
+g 1008 Prize Plushy
+g 1009 Grizzled Growth
+g 1010 Last Straw
+a 1011 Tux
+g 1014 Brutal Bouffant
+g 1015 Shred Alert Taunt
+g 1016 Buck Turner All-Stars
+a 1899 World Traveler
+c 5000 Scrap Metal
+c 5001 Reclaimed Metal
+c 5002 Refined Metal
+c 5003 Scout Class Token
+c 5004 Sniper Class Token
+c 5005 Soldier Class Token
+c 5006 Demoman Class Token
+c 5007 Heavy Class Token
+c 5008 Medic Class Token
+c 5009 Pyro Class Token
+c 5010 Spy Class Token
+c 5011 Engineer Class Token
+c 5012 Primary Slot Token
+c 5013 Secondary Slot Token
+c 5014 Melee Slot Token
+c 5015 Grenade Slot Token
+c 5016 Building Slot Token
+c 5017 PDA Slot Token
+c 5018 PDA2 Slot Token
+c 5019 Head Slot Token
+u 5021 Mann Co. Supply Crate Key
+u 5022 Mann Co. Supply Crate
+x 5023 Paint Can
+u 5026 Decal Tool
+u 5027 Paint: Indubitably Green
+u 5028 Paint: Zepheniah's Greed
+u 5029 Paint: Noble Hatter's Violet
+u 5030 Paint: Color No. 216-190-216
+u 5031 Paint: A Deep Commitment to Purple
+u 5032 Paint: Mann Co. Orange
+u 5033 Paint: Muskelmannbraun
+u 5034 Paint: Peculiarly Drab Tincture
+u 5035 Paint: Radigan Conagher Brown
+u 5036 Paint: Ye Olde Rustic Colour
+u 5037 Paint: Australium Gold
+u 5038 Paint: Aged Moustache Grey
+u 5039 Paint: An Extraordinary Abundance of Tinge
+u 5040 Paint: A Distinctive Lack of Hue
+u 5042 Gift Wrap
+u 5043 A Carefully Wrapped Gift
+u 5044 Description Tag
+u 5046 Team Paint: Team Spirit
+u 5048 Festive Winter Crate
+u 5050 Backpack Expander
+u 5051 Paint: Pink as Hell
+u 5052 Paint: A Color Similar to Slate
+u 5053 Paint: Drably Olive
+u 5054 Paint: Bitter Taste of Defeat and Lime
+u 5055 Paint: Color of a Gentlemann's Business Pants
+u 5056 Paint: Dark Salmon Injustice
+u 5057 Stocking Stuffer Key
+u 5060 Team Paint: Operator's Overalls
+u 5061 Team Paint: Waterlogged Lab Coat
+u 5062 Team Paint: Balaclavas Are Forever
+u 5063 Team Paint: An Air of Debonair
+u 5064 Team Paint: Value of Teamwork
+u 5065 Team Paint: Cream Spirit
+u 5066 Refreshing Summer Cooler
+u 5068 Salvaged Mann Co. Supply Crate
+u 5070 Naughty Winter Crate
+u 5071 Nice Winter Crate
+x 5075 Something Special For Someone Special
+u 5076 Paint: Mann's Mint
+u 5077 Paint: After Eight
+a 5500 RIFT Well Spun Hat Claim Code
+u 5604 Fireproof Secret Diary
+u 5606 Barely-Melted Capacitor
+h 5617 Voodoo-Cursed Scout Soul
+h 5618 Voodoo-Cursed Soldier Soul
+h 5619 Voodoo-Cursed Heavy Soul
+h 5620 Voodoo-Cursed Demoman Soul
+h 5621 Voodoo-Cursed Engineer Soul
+h 5622 Voodoo-Cursed Medic Soul
+h 5623 Voodoo-Cursed Spy Soul
+h 5624 Voodoo-Cursed Pyro Soul
+h 5625 Voodoo-Cursed Sniper Soul
+u 5999 Strange Part (Generic)
+u 6000 Strange Part: Heavies Killed
+u 6001 Strange Part: Demomen Killed
+u 6002 Strange Part: Soldiers Killed
+u 6003 Strange Part: Scouts Killed
+u 6009 Strange Part: Building Destroyed
+u 6010 Strange Part: Projectiles Reflected
+u 6011 Strange Part: Headshot Kills
+u 6012 Strange Part: Airborne Enemies Killed
+u 6013 Strange Part: Enemies Gibbed
+u 6015 Strange Part: Full Moon Kills
+u 6016 Strange Part: Domination Kills
+u 6018 Strange Part: Revenge Kills
+u 6019 Strange Part: Posthumous Kills
+u 6020 Strange Part: Allies Extinguished
+u 6021 Strange Part: Critical Kills
+u 6022 Strange Part: Kills While Explosive-Jumping
+u 6024 Strange Part: Cloaked Spies Killed
+u 6025 Strange Part: Sappers Destroyed
+x 8000 UGC Highlander 1st Place North American Platinum Season 6
+x 8001 UGC Highlander 2nd Place North American Platinum Season 6
+x 8002 UGC Highlander 3rd Place North American Platinum Season 6
+x 8003 UGC Highlander 1st Place European Platinum Season 6
+x 8004 UGC Highlander 2nd Place European Platinum Season 6
+x 8005 UGC Highlander 3rd Place European Platinum Season 6
+x 8006 UGC Highlander 1st Place South American Platinum Season 6
+x 8007 UGC Highlander 2nd Place South American Platinum Season 6
+x 8008 UGC Highlander 3rd Place South American Platinum Season 6
+x 8009 UGC Highlander 1st Place North American Silver Season 6
+x 8010 UGC Highlander 2nd Place North American Silver Season 6
+x 8011 UGC Highlander 3rd Place North American Silver Season 6
+x 8012 UGC Highlander 1st Place European Silver Season 6
+x 8013 UGC Highlander 2nd Place European Silver Season 6
+x 8014 UGC Highlander 3rd Place European Silver Season 6
+x 8015 UGC Highlander 1st Place South American Silver Season 6
+x 8016 UGC Highlander 2nd Place South American Silver Season 6
+x 8017 UGC Highlander 3rd Place South American Silver Season 6
+x 8018 UGC Highlander 1st Place European Steel Season 6
+x 8019 UGC Highlander 2nd Place European Steel Season 6
+x 8020 UGC Highlander 3rd Place European Steel Season 6
+x 8021 UGC Highlander 1st Place South American Steel Season 6
+x 8022 UGC Highlander 2nd Place South American Steel Season 6
+x 8023 UGC Highlander 3rd Place South American Steel Season 6
+x 8024 UGC Highlander Platinum Participant Season 6
+x 8025 UGC Highlander Silver Participant Season 6
+x 8026 UGC Highlander Steel Participant Season 6
+x 8027 ESL Season VI Premier Division 1st Place
+x 8028 ESL Season VI Premier Division 2nd Place
+x 8029 ESL Season VI Premier Division 3rd Place
+x 8030 ESL Season VI Premier Division Participant
+x 8031 ESL Season VI Division 1 1st Place
+x 8032 ESL Season VI Division 1 2nd Place
+x 8033 ESL Season VI Division 1 3rd Place
+x 8034 ESL Season VI Division 1 Participant
+x 8035 ESL Season VI Division 2 1st Place
+x 8036 ESL Season VI Division 2 2nd Place
+x 8037 ESL Season VI Division 2 3rd Place
+x 8038 ESL Season VI Division 2 Participant
+x 8039 ESL Season VI Division 3 1st Place
+x 8040 ESL Season VI Division 3 2nd Place
+x 8041 ESL Season VI Division 3 3rd Place
+x 8042 ESL Season VI Division 3 Participant
+x 8043 ESL Season VI Division 4 1st Place
+x 8044 ESL Season VI Division 4 2nd Place
+x 8045 ESL Season VI Division 4 3rd Place
+x 8046 ESL Season VI Division 4 Participant
+x 8047 ESL Season VI Division 5 1st Place
+x 8048 ESL Season VI Division 5 2nd Place
+x 8049 ESL Season VI Division 5 3rd Place
+x 8050 ESL Season VI Division 5 Participant
+x 8051 ESL Season VII Premiership Division 1st Place
+x 8052 ESL Season VII Premiership Division 2nd Place
+x 8053 ESL Season VII Premiership Division 3rd Place
+x 8054 ESL Season VII Premiership Division Participant
+x 8055 ESL Season VII Division 1 1st Place
+x 8056 ESL Season VII Division 1 2nd Place
+x 8057 ESL Season VII Division 1 3rd Place
+x 8058 ESL Season VII Division 2 1st Place
+x 8059 ESL Season VII Division 2 2nd Place
+x 8060 ESL Season VII Division 2 Participant
+x 8061 ESL Season VII Division 3 Participant
+x 8062 ESL Season VII Division 4 1st Place
+x 8063 ESL Season VII Division 4 2nd Place
+x 8064 ESL Season VII Division 4 3rd Place
+x 8065 ESL Season VII Division 4 Participant
+x 8066 ESL Season VII Division 5 1st Place
+x 8067 ESL Season VII Division 5 2nd Place
+x 8068 ESL Season VII Division 5 3rd Place
+x 8069 ESL Season VII Division 5 Participant
+x 8070 Ready Steady Pan Participant Season 1
+x 8071 Ready Steady Pan Helper Season 1
+x 8072 ETF2L 6v6 Premier Division Gold Medal Season 8
+x 8073 ETF2L 6v6 Premier Division Silver Medal Season 8
+x 8074 ETF2L 6v6 Premier Division Bronze Medal Season 8
+x 8075 ETF2L 6v6 Premier Division Gold Medal Season 9
+x 8076 ETF2L 6v6 Premier Division Silver Medal Season 9
+x 8077 ETF2L 6v6 Premier Division Bronze Medal Season 9
+x 8078 ETF2L 6v6 Premier Division Gold Medal Season 10
+x 8079 ETF2L 6v6 Premier Division Silver Medal Season 10
+x 8080 ETF2L 6v6 Premier Division Bronze Medal Season 10
+x 8081 ETF2L 6v6 Premier Division Gold Medal Season 11
+x 8082 ETF2L 6v6 Premier Division Silver Medal Season 11
+x 8083 ETF2L 6v6 Premier Division Bronze Medal Season 11
+x 8084 ETF2L 6v6 Premier Division Gold Medal Season 12
+x 8085 ETF2L 6v6 Premier Division Silver Medal Season 12
+x 8086 ETF2L 6v6 Premier Division Bronze Medal Season 12
+x 8087 ETF2L 6v6 Premier Division Gold Medal Season 13
+x 8088 ETF2L 6v6 Premier Division Silver Medal Season 13
+x 8089 ETF2L 6v6 Premier Division Bronze Medal Season 13
+x 8090 ETF2L 6v6 Division 1 Group Winner Season 8
+x 8091 ETF2L 6v6 Division 2 Group Winner Season 8
+x 8092 ETF2L 6v6 Division 3 Group Winner Season 8
+x 8093 ETF2L 6v6 Division 4 Group Winner Season 8
+x 8094 ETF2L 6v6 Division 5 Group Winner Season 8
+x 8095 ETF2L 6v6 Division 6 Group Winner Season 8
+x 8096 ETF2L 6v6 Division 1 Group Winner Season 9
+x 8097 ETF2L 6v6 Division 2 Group Winner Season 9
+x 8098 ETF2L 6v6 Division 3 Group Winner Season 9
+x 8099 ETF2L 6v6 Division 4 Group Winner Season 9
+x 8100 ETF2L 6v6 Division 5 Group Winner Season 9
+x 8101 ETF2L 6v6 Division 6 Group Winner Season 9
+x 8102 ETF2L 6v6 Division 1 Group Winner Season 10
+x 8103 ETF2L 6v6 Division 2 Group Winner Season 10
+x 8104 ETF2L 6v6 Division 3 Group Winner Season 10
+x 8105 ETF2L 6v6 Division 4 Group Winner Season 10
+x 8106 ETF2L 6v6 Division 5 Group Winner Season 10
+x 8107 ETF2L 6v6 Division 6 Group Winner Season 10
+x 8108 ETF2L 6v6 Division 1 Group Winner Season 11
+x 8109 ETF2L 6v6 Division 2 Group Winner Season 11
+x 8110 ETF2L 6v6 Division 3 Group Winner Season 11
+x 8111 ETF2L 6v6 Division 4 Group Winner Season 11
+x 8112 ETF2L 6v6 Division 5 Group Winner Season 11
+x 8113 ETF2L 6v6 Division 6 Group Winner Season 11
+x 8114 ETF2L 6v6 Division 1 Group Winner Season 12
+x 8115 ETF2L 6v6 Division 2 Group Winner Season 12
+x 8116 ETF2L 6v6 Division 3 Group Winner Season 12
+x 8117 ETF2L 6v6 Division 4 Group Winner Season 12
+x 8118 ETF2L 6v6 Division 5 Group Winner Season 12
+x 8119 ETF2L 6v6 Division 6 Group Winner Season 12
+x 8120 ETF2L 6v6 Division 1 Group Winner Season 13
+x 8121 ETF2L 6v6 Division 2 Group Winner Season 13
+x 8122 ETF2L 6v6 Division 3 Group Winner Season 13
+x 8123 ETF2L 6v6 Division 4 Group Winner Season 13
+x 8124 ETF2L 6v6 Division 5 Group Winner Season 13
+x 8125 ETF2L 6v6 Division 6 Group Winner Season 13
+x 8126 ETF2L 6v6 Premier Division Participation Medal Season 8
+x 8127 ETF2L 6v6 Division 1 Participation Medal Season 8
+x 8128 ETF2L 6v6 Division 2 Participation Medal Season 8
+x 8129 ETF2L 6v6 Division 3 Participation Medal Season 8
+x 8130 ETF2L 6v6 Division 4 Participation Medal Season 8
+x 8131 ETF2L 6v6 Division 5 Participation Medal Season 8
+x 8132 ETF2L 6v6 Division 6 Participation Medal Season 8
+x 8133 ETF2L 6v6 Premier Division Participation Medal Season 9
+x 8134 ETF2L 6v6 Division 1 Participation Medal Season 9
+x 8135 ETF2L 6v6 Division 2 Participation Medal Season 9
+x 8136 ETF2L 6v6 Division 3 Participation Medal Season 9
+x 8137 ETF2L 6v6 Division 4 Participation Medal Season 9
+x 8138 ETF2L 6v6 Division 5 Participation Medal Season 9
+x 8139 ETF2L 6v6 Division 6 Participation Medal Season 9
+x 8140 ETF2L 6v6 Premier Division Participation Medal Season 10
+x 8141 ETF2L 6v6 Division 1 Participation Medal Season 10
+x 8142 ETF2L 6v6 Division 2 Participation Medal Season 10
+x 8143 ETF2L 6v6 Division 3 Participation Medal Season 10
+x 8144 ETF2L 6v6 Division 4 Participation Medal Season 10
+x 8145 ETF2L 6v6 Division 5 Participation Medal Season 10
+x 8146 ETF2L 6v6 Division 6 Participation Medal Season 10
+x 8147 ETF2L 6v6 Premier Division Participation Medal Season 11
+x 8148 ETF2L 6v6 Division 1 Participation Medal Season 11
+x 8149 ETF2L 6v6 Division 2 Participation Medal Season 11
+x 8150 ETF2L 6v6 Division 3 Participation Medal Season 11
+x 8151 ETF2L 6v6 Division 4 Participation Medal Season 11
+x 8152 ETF2L 6v6 Division 5 Participation Medal Season 11
+x 8153 ETF2L 6v6 Division 6 Participation Medal Season 11
+x 8154 ETF2L 6v6 Premier Division Participation Medal Season 12
+x 8155 ETF2L 6v6 Division 1 Participation Medal Season 12
+x 8156 ETF2L 6v6 Division 2 Participation Medal Season 12
+x 8157 ETF2L 6v6 Division 3 Participation Medal Season 12
+x 8158 ETF2L 6v6 Division 4 Participation Medal Season 12
+x 8159 ETF2L 6v6 Division 5 Participation Medal Season 12
+x 8160 ETF2L 6v6 Division 6 Participation Medal Season 12
+x 8161 ETF2L 6v6 Premier Division Participation Medal Season 13
+x 8162 ETF2L 6v6 Division 1 Participation Medal Season 13
+x 8163 ETF2L 6v6 Division 2 Participation Medal Season 13
+x 8164 ETF2L 6v6 Division 3 Participation Medal Season 13
+x 8165 ETF2L 6v6 Division 4 Participation Medal Season 13
+x 8166 ETF2L 6v6 Division 5 Participation Medal Season 13
+x 8167 ETF2L 6v6 Division 6 Participation Medal Season 13
+x 8168 ETF2L Highlander Division 1 Gold Medal Season 1
+x 8169 ETF2L Highlander Division 1 Silver Medal Season 1
+x 8170 ETF2L Highlander Division 1 Bronze Medal Season 1
+x 8171 ETF2L Highlander Division 1 Gold Medal Season 2
+x 8172 ETF2L Highlander Division 1 Silver Medal Season 2
+x 8173 ETF2L Highlander Division 1 Bronze Medal Season 2
+x 8174 ETF2L Highlander Premier Division Gold Medal Season 3
+x 8175 ETF2L Highlander Premier Division Silver Medal Season 3
+x 8176 ETF2L Highlander Premier Division Bronze Medal Season 3
+x 8177 ETF2L Highlander Division 2 Group Winner Season 1
+x 8178 ETF2L Highlander Division 3 Group Winner Season 1
+x 8179 ETF2L Highlander Division 4 Group Winner Season 1
+x 8180 ETF2L Highlander Division 5 Group Winner Season 1
+x 8181 ETF2L Highlander Division 6 Group Winner Season 1
+x 8182 ETF2L Highlander Division 2 Group Winner Season 2
+x 8183 ETF2L Highlander Division 3 Group Winner Season 2
+x 8184 ETF2L Highlander Division 4 Group Winner Season 2
+x 8185 ETF2L Highlander Division 5 Group Winner Season 2
+x 8186 ETF2L Highlander Division 6 Group Winner Season 2
+x 8187 ETF2L Highlander Division 1 Group Winner Season 3
+x 8188 ETF2L Highlander Division 2 Group Winner Season 3
+x 8189 ETF2L Highlander Division 3 Group Winner Season 3
+x 8190 ETF2L Highlander Division 4 Group Winner Season 3
+x 8191 ETF2L Highlander Division 5 Group Winner Season 3
+x 8192 ETF2L Highlander Division 6 Group Winner Season 3
+x 8193 ETF2L Highlander Division 1 Participation Medal Season 1
+x 8194 ETF2L Highlander Division 2 Participation Medal Season 1
+x 8195 ETF2L Highlander Division 3 Participation Medal Season 1
+x 8196 ETF2L Highlander Division 4 Participation Medal Season 1
+x 8197 ETF2L Highlander Division 5 Participation Medal Season 1
+x 8198 ETF2L Highlander Division 6 Participation Medal Season 1
+x 8199 ETF2L Highlander Division 1 Participation Medal Season 2
+x 8200 ETF2L Highlander Division 2 Participation Medal Season 2
+x 8201 ETF2L Highlander Division 3 Participation Medal Season 2
+x 8202 ETF2L Highlander Division 4 Participation Medal Season 2
+x 8203 ETF2L Highlander Division 5 Participation Medal Season 2
+x 8204 ETF2L Highlander Division 6 Participation Medal Season 2
+x 8205 ETF2L Highlander Premier Division Participation Medal Season 3
+x 8206 ETF2L Highlander Division 1 Participation Medal Season 3
+x 8207 ETF2L Highlander Division 2 Participation Medal Season 3
+x 8208 ETF2L Highlander Division 3 Participation Medal Season 3
+x 8209 ETF2L Highlander Division 4 Participation Medal Season 3
+x 8210 ETF2L Highlander Division 5 Participation Medal Season 3
+x 8211 ETF2L Highlander Division 6 Participation Medal Season 3
+x 8212 ETF2L Ultiduo 1 Gold Medal
+x 8213 ETF2L Ultiduo 2 Gold Medal
+x 8214 ETF2L Ultiduo 3 Gold Medal
+x 8215 ETF2L Ultiduo 4 Gold Medal
+x 8216 ESH Ultiduo 1 Gold Medal
+x 8217 ESH Ultiduo 2 Gold Medal
+x 8218 ESH Ultiduo 3 Gold Medal
+x 8219 ESH Ultiduo 4 Gold Medal
+x 8220 ESH Ultiduo 5 Gold Medal
+x 8221 ESH Ultiduo 6 Gold Medal
+x 8222 ESH Ultiduo 7 Gold Medal
+x 8224 UGC Highlander 1st Place Platinum Season 8
+x 8225 UGC Highlander 2nd Place Platinum Season 8
+x 8226 UGC Highlander 3rd Place Platinum Season 8
+x 8227 UGC Highlander 1st Place Silver Season 8
+x 8228 UGC Highlander 2nd Place Silver Season 8
+x 8229 UGC Highlander 3rd Place Silver Season 8
+x 8230 UGC Highlander 1st Place Steel Season 8
+x 8231 UGC Highlander 2nd Place Steel Season 8
+x 8232 UGC Highlander 3rd Place Steel Season 8
+x 8233 UGC Highlander 1st Place Iron Season 8
+x 8234 UGC Highlander 2nd Place Iron Season 8
+x 8235 UGC Highlander 3rd Place Iron Season 8
+x 8236 UGC Highlander 1st Place Season 8
+x 8237 UGC Highlander 2nd Place Season 8
+x 8238 UGC Highlander 3rd Place Season 8
+x 8239 UGC Highlander Platinum Participant Season 8
+x 8240 UGC Highlander Silver Participant Season 8
+x 8241 UGC Highlander Steel Participant Season 8
+x 8242 UGC Highlander Participant Season 8

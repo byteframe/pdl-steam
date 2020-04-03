@@ -1,0 +1,90 @@
+pdl-steam (0.79) README
+
+pdl-steam will install, update, and run an hlstatsx site and multiple hlds and
+srcds based game servers along with their associated plugin managers. It reads
+settings and server definitions from 'pdl-steam.conf' that consist of the
+following attributes:
+
+[NAME]
+  used as the screen id and prefix for some files (required)
+[SERV]
+  server type; either hlds or srcds (required)
+[PORT]
+  network port; typically 27015 or above (required)
+[GAME]
+  server-specific game/mod to use (required)
+  hlds: cstrike|dod|tfc|valve
+  srcds: cstrike|dod|dystopia|hl2mp|insurgency|left4dead|left4dead2|tf|zps
+[CFGS]
+  space-separated list of any cfg files to use
+  if prefixed with "+", the cfg runs once on startup
+  if prefixed with "@", the cfg runs after the map loads
+  if prefixed with "%", the cfg runs after the map and plugin manager load
+[OPTS]
+  miscellaneous options and commands to include on the startup line
+[PLGS]
+  space-separated list of plugins to use (without file extensions)
+  the appropriate hlstatsx plugin will be automatically included
+[MOTD]
+  url to redirect users to; if unspecified, the mapcycle will be shown
+[DBUG]
+  if "yes", server logging and debug support will be enabled
+
+Example:
+
+NAME[0]="cssdm"
+SERV[0]="srcds"
+PORT[0]="27015"
+GAME[0]="cstrike"
+CFGS[0]="+cssdm @cssdm-onmap %cssdm-plugins cssdm-tourney-mode"
+OPTS[0]="-nohltv"
+PLGS[0]="ratechecker"
+MOTD[0]="http://myfastdlserver.com/cssdm-motd.html"
+DBUG[0]="no"
+
+One hlstatsx instance (which is the perl daemon running on localhost with access
+to a database) is run for all game servers. It responds to the following
+variables:
+
+[DB_HOST]
+  network host for the database server (default: localhost)
+[DB_NAME]
+  name of the database (default: hlstatsx)
+[DB_USER]
+  username for the database (default: hlstatsx)
+[DB_PASS]
+  password for the database (default: hlstatsx)
+
+A number of installation and upgrade operations for hlstatsx will need to be
+performed manually, and so the user is prompted. In addition, a backup of the
+database and an update of geoip data will be performed weekly, or before an
+hlstatsx upgrade.
+
+On server startup, the specified config files and plugins will be symlinked into
+the game directory, so that they can be held and edited conveniently in one
+place. Game content will be updated, and each server starts inside of a screen
+session.
+
+Place configuration files in a directory named 'configs'. An 'autoexec.cfg' and
+a 'bans.cfg' file will be used for settings and bans that apply to all servers.
+A '$NAME_mapcycle.txt' file will be used as the mapcycle for the server, with
+the first map listed to be added to the startup line "+map" parameter. For users
+who have disabled in-game HTML, a '$NAME_motd_text.txt' is used as a fallback
+for some scrds games. The '$NAME_admins.ini' file is used as the admin/user
+definitions file, which is either 'users.ini' or 'admins_simple.ini' for amxmodx
+or sourcemod respectively. A file named '$NAME_commands.ini' will be used as the
+command definitions/overrides file, which is either 'cmds.ini' for amxmodx, or
+'admin-overrides.cfg' for sourcemod. Finally, '$NAME_database.cfg' will be used
+as the database definition file for the plugin manager, either 'sql.cfg' for
+amxmodx, or 'databases.cfg' for sourcemod. Required or specified files that are
+not present in 'configs' at run-time will be filled with the defaults or will be
+created blank.
+
+Place plugin files in a directory named 'plugins'. If a sourcemod plugin has a
+translation file (*.phrases.txt'), also place it in the 'plugins' directory.
+If the target is a directory, the directory structure and all contents will be
+symlinked at the game directory.
+
+Server definitions with a port or game already specified for another server will
+be skipped. Configuration files and hlstatsx backups are kept protected from
+other users on the system with file permissions.

@@ -1,0 +1,13 @@
+diff -Naur hlstatsx.old//scripts/hlstats-awards.pl hlstatsx/scripts/hlstats-awards.pl
+--- hlstatsx.old//scripts/hlstats-awards.pl	2011-07-15 22:44:10.000000000 -0400
++++ hlstatsx/scripts/hlstats-awards.pl	2011-08-02 04:59:53.187040390 -0400
+@@ -1216,6 +1216,9 @@
+ 	
+ 	foreach $eventTable (keys(%g_eventTables))
+ 	{
++		if ($eventTable eq "Chat") {
++			last;
++		}
+ 		&execNonQuery("
+ 			DELETE FROM
+ 					hlstats_Events_$eventTable

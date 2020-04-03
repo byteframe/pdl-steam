@@ -1,0 +1,32 @@
+primarydataloop
+
+Rules:
+ - No Sentries
+ - No Hate Speech
+ - No Voice Chat
+
+Crits
+Taunt to receive critical hits.
+
+Roll the Dice
+Say "!rtd" to take a chance...
+
+Stats
+Say "hlx" to view and configure your player stats.
+
+Backpack Examiner
+Say "!bp" to peer into a player's backpack.
+
+Will It Craft?
+Say "!willitcraft" to see your crafting possibilities.
+
+Report
+Say "!report" to inform on your neighbours.
+
+Gimme
+Say "!gimme #" to tryout an item until you die.
+
+Third-Person
+Say "fp" to return to first-person mode, or "tp" to try it again.
+
+*** PLEASE ENABLE HTML-MOTD TO SEE THE ITEM ID LIST ***
